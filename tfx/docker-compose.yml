@@ -1,0 +1,7 @@
+services:
+  main:
+    build: .
+    ports:
+      - "8501:8501"
+    environment:
+      - MODEL_NAME=insurance
