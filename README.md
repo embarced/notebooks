@@ -22,7 +22,7 @@
   * Complete Example: https://colab.research.google.com/github/DJCordhose/ml-workshop/blob/master/notebooks/tf-intro/2020-01-time-series.ipynb?hl=en
   * Encoder-Decoder: https://colab.research.google.com/github/DJCordhose/ml-workshop/blob/master/notebooks/tf2/time-series-encoder-decoder.ipynb
 
-  * Transformers
+* Transformers
    * https://colab.research.google.com/github/embarced/notebooks/blob/master/deep/transformers-pipelines.ipynb?hl=en
    * https://colab.research.google.com/github/embarced/notebooks/blob/master/deep/transformers-fine-tuning.ipynb?hl=en
 
