@@ -5,3 +5,9 @@ services:
       - "8501:8501"
     environment:
       - MODEL_NAME=insurance
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - capabilities: [gpu]
+                
