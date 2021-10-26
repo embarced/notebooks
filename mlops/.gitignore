@@ -1,3 +1,10 @@
 classifier
 insurance
 classifier.*
+data
+model
+pipeline
+schema-pipeline
+__pycache__
+metadata.db
+trainer.py
