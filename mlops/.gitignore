@@ -1,6 +1,8 @@
 classifier
 insurance
 classifier.*
+drifted_data
+original_data
 data
 model
 pipeline
