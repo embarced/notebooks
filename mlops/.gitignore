@@ -1,6 +1,8 @@
 classifier
+classifier-pruned
 insurance
 classifier.*
+classifier-pruned.*
 drifted_data
 original_data
 data
