@@ -12,3 +12,4 @@ schema-pipeline
 __pycache__
 metadata.db
 trainer.py
+server.log
