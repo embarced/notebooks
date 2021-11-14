@@ -13,3 +13,4 @@ __pycache__
 metadata.db
 trainer.py
 server.log
+*.png
